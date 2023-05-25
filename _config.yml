@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "PAUL THOMAS"
 title_separator          : "-"
 name                     : &name "PAUL THOMAS"
-description              : &description "Proect Associate at the National Institute of Advanced Studies, India"
+description              : &description "Proect Associate, National Institute of Advanced Studies, India"
 url                      : https://paulmaliackal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paulmaliackal.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @paul_maliackal
+  username               : "@paul_maliackal"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "PAUL THOMAS"
   avatar           : "profile.png"
-  bio              : "Proect Associate at the National Institute of Advanced Studies, India"
+  bio              : "Proect Associate, National Institute of Advanced Studies, India"
   location         : "Bengaluru"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "paulmaliackal"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@paul_maliackal"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: India/New_Delhi # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
